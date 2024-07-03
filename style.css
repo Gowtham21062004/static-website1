@@ -1,0 +1,92 @@
+.img1{
+    width: 100px;
+    height: 100px;
+}
+ul{
+    list-style-type: none;
+}
+header{
+    height: 100px;
+    width: 100%;
+    display: flex;
+}
+
+ul li{
+    display: inline;
+}
+ul li a{
+    float: right;
+    text-decoration: none;
+    padding: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: white;
+}
+.img2{
+    width: 1490px;
+    height: 800px;
+}
+.head1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.para1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-bottom: 200px;
+    font-size: larger;
+    
+}
+.img3{
+    width: 200px;
+    height: 200px;
+}
+.img4{
+    width: 200px;
+    height: 200px;
+}
+.img5{
+    width: 200px;
+    height: 200px; 
+}
+.link1{
+    margin-left: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+.img7{
+    width: 200px;
+    height: 200px;
+}
+.img8{
+    width: 200px;
+    height: 200px;
+}
+.img9{
+    width: 200px;
+    height: 200px;
+}
+.img10{
+    width: 200px;
+    height: 200px;
+}
+.form1{
+    text-align: center;
+
+}
+.btn{
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+    padding: 5px;
+}
+.btn:hover{
+    background-color: chartreuse;
+}
+.inp{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
